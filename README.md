@@ -1,3 +1,4 @@
+![welcome](https://i.imgur.com/V0JZtOP.png) <br/>
 
 - Entusiasta de Javascript/Typescript!
 - Pequeno criador de conteúdo no youtube, gosta de vídeos do youtube.
