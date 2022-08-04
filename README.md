@@ -1,5 +1,5 @@
 ![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-[![ko-fi](https://i.imgur.com/ySX1RHV.png)](https://livepix.gg/aspas)
+<img align="left" alt="doação" width="26px" src="[https://i.imgur.com/ySX1RHV.png]"("https://livepix.gg/aspas") /> 
 
 
 - Entusiasta de Javascript/Typescript!
