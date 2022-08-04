@@ -1,6 +1,3 @@
-![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-<img align="left" alt="doação" width="26px" src="[https://i.imgur.com/ySX1RHV.png]"("https://livepix.gg/aspas") /> 
-
 
 - Entusiasta de Javascript/Typescript!
 - Pequeno criador de conteúdo no youtube, gosta de vídeos do youtube.
